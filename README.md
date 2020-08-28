@@ -8,4 +8,8 @@ In this home work assignment we where supposed to take an existing html file and
 
 ## How to get to the new website
 
+[Horiseon webpage](https://brandonwalker88.github.io/website1-repo/)
+
 ## New vs old
+
+The old website looked fine but the code was broken and confusing. The New website has better functioning code that is easier to read and more condensed.
